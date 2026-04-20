@@ -10,3 +10,5 @@ Portafolio para aprender java y javascript para ajuntar en la hoja de vida
 - comenzar con html 
 - hacer los commit y demas
 - agregar y gestionar el diseño con lo colores 
+
+
